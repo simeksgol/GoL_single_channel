@@ -1,0 +1,1 @@
+# GoL_single_channel
